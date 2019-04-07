@@ -1,4 +1,4 @@
-Start the application by running the App file. This will print out to file content and properties onto the Terminal
+Start the spring application by running the App file. This will print out to file content and properties onto the Terminal
 
 Get the required generated password from the spring output in the terminal window. Text displayed for password is (Using generated security password:xxxxxxxxxxxxxxx)
 
