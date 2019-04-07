@@ -57,7 +57,7 @@ public class FileSystem {
                 System.out.print(mimeType);
                 System.out.println();
                 System.out.print("File Size: ");
-                System.out.print(sizeOfFile+ " bytes");
+                System.out.print(sizeOfFile);
                 System.out.println();
                 System.out.print("File Extension: ");
                 System.out.print(extension);
